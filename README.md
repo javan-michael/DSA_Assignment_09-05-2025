@@ -1,3 +1,1 @@
-# Group Members:
-### Michael Javan Obunga - 189821
-### Tashome Makonnen - 192230
+#### The codes within the project are the three different kinds of linked lists as well as example outputs when run. The files each contain how the different types function and how they operate.
